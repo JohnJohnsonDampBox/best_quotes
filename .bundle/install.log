@@ -1,0 +1,8 @@
+# Logfile created on 2014-02-15 20:26:01 -0800 by logger.rb/44203
+I, [2014-02-15T20:26:01.077387 #27167]  INFO -- : 0:  rack (1.5.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-15T20:26:01.077758 #27167]  INFO -- : 0:  rulers (0.0.1) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rulers-0.0.1.gemspec
+I, [2014-02-15T20:26:01.078085 #27167]  INFO -- : 0:  bundler (1.5.0) from /home/johnj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-16T17:20:41.132525 #19604]  INFO -- : 0:  rack (1.5.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-16T17:20:41.132951 #19604]  INFO -- : 0:  rack-test (0.6.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-16T17:20:41.133400 #19604]  INFO -- : 0:  rulers (0.0.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rulers-0.0.2.gemspec
+I, [2014-02-16T17:20:41.133744 #19604]  INFO -- : 0:  bundler (1.5.0) from /home/johnj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
