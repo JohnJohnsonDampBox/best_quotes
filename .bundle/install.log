@@ -22,3 +22,13 @@ I, [2014-02-24T11:11:39.296764 #28733]  INFO -- : 0:  rack (1.5.2) from /home/jo
 I, [2014-02-24T11:11:39.297279 #28733]  INFO -- : 0:  rack-test (0.6.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
 I, [2014-02-24T11:11:39.341631 #28733]  INFO -- : 0:  rulers (0.0.2) from /home/johnj/rails_projects/CodeFellows/rebuilding_rails/rulers/rulers.gemspec
 I, [2014-02-24T11:11:39.342051 #28733]  INFO -- : 0:  bundler (1.5.0) from /home/johnj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-24T11:29:06.173244 #29577]  INFO -- : 0:  ffi (1.9.3) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-02-24T11:29:06.174352 #29577]  INFO -- : 0:  rb-fsevent (0.9.4) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-02-24T11:29:06.175315 #29577]  INFO -- : 0:  rb-inotify (0.9.3) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-02-24T11:29:06.703557 #29577]  INFO -- : 0:  rb-kqueue (0.2.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rb-kqueue-0.2.2.gemspec
+I, [2014-02-24T11:29:07.444615 #29577]  INFO -- : 0:  listen (1.0.3) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/listen-1.0.3.gemspec
+I, [2014-02-24T11:29:07.445619 #29577]  INFO -- : 0:  rack (1.5.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-24T11:29:07.446498 #29577]  INFO -- : 0:  rack-test (0.6.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-24T11:29:08.131003 #29577]  INFO -- : 0:  rerun (0.8.2) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/rerun-0.8.2.gemspec
+I, [2014-02-24T11:29:08.146984 #29577]  INFO -- : 0:  rulers (0.0.2) from /home/johnj/rails_projects/CodeFellows/rebuilding_rails/rulers/rulers.gemspec
+I, [2014-02-24T11:29:08.147392 #29577]  INFO -- : 0:  bundler (1.5.0) from /home/johnj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
