@@ -1,3 +1,3 @@
 # best_quotes/Gemfile
-source :rubygems
-gem 'rulers'
+source 'https://rubygems.org'
+gem 'rulers', path: '../rulers'
